@@ -1,0 +1,5 @@
+config-6.8.0-44-generic      lost+found
+grub                         System.map-6.8.0-44-generic
+initrd.img                   vmlinuz
+initrd.img-6.8.0-44-generic  vmlinuz-6.8.0-44-generic
+initrd.img.old               vmlinuz.old

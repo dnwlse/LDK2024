@@ -1,0 +1,1 @@
+bin  games  include  lib  lib64  libexec  local  sbin  share  src
